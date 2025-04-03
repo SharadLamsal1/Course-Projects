@@ -1,5 +1,5 @@
 # Course-Projects
-A portfolio of class projects I completed during my Masters degree. 
+A portfolio of some of the class projects I completed during my Masters degree. 
 | Project Title                        | Description |
 |-------------------------------------|-------------|
 | Crash Detection from Traffic Images | Built machine learning models (CNN, SVM, Random Forest, k-NN) to classify traffic images as crash or non-crash. Used Python, TensorFlow, OpenCV, and scikit-learn for image preprocessing, model training, and evaluation. Applied data augmentation techniques to improve model robustness. The CNN model achieved 94% accuracy, outperforming traditional models (SVM: 85%, RF: 88%). Evaluated models using confusion matrix, precision, recall, and F1-score to ensure balanced performance. |
